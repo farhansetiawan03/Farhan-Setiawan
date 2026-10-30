@@ -1,0 +1,17 @@
+.ukuran.image {
+    width: 250;
+    height: 250;
+}
+
+.whatsapp-float {
+    position: fixed;
+    width: 100px;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1050;
+    background-color: rgb(106, 197, 26);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+}
